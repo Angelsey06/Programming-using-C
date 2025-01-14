@@ -1,7 +1,9 @@
 #WEEK 01-OVERVIEW OF C, CONSTANTS, VARIABLES AND DATA TYPES
 
-[week-01-01-Practice Session Coding.pdf](https://github.com/user-attachments/files/18399651/week-01-01-Practice.Session.Coding.pdf)
+[WEEK-01-01-PRACTICE SESSION CODING.docx](https://github.com/user-attachments/files/18410081/WEEK-01-01-PRACTICE.SESSION.CODING.docx)
 
-[week-01-02-Practice Session Coding.pdf](https://github.com/user-attachments/files/18399652/week-01-02-Practice.Session.Coding.pdf)
+[WEEK-01-02-PRACTICE SESSION CODING.docx](https://github.com/user-attachments/files/18410082/WEEK-01-02-PRACTICE.SESSION.CODING.docx)
+
+
 
 
