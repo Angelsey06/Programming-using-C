@@ -1,1 +1,4 @@
+#WEEK-10-CHARACTER ARRAYS
+
+[WEEK-10-PRACTICE SESSION CODING.docx](https://github.com/user-attachments/files/18419830/WEEK-10-PRACTICE.SESSION.CODING.docx)
 
